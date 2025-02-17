@@ -1,0 +1,16 @@
+backports
+cv2==4.11.0
+google
+matplotlib==3.10.0
+numpy==1.26.4
+session_info==1.0.0
+
+# Jupyter dependencies
+IPython==7.34.0
+jupyter_client==6.1.12
+jupyter_core==5.7.2
+notebook==6.5.5
+
+# Python version info (not included in requirements.txt, for reference only)
+# Python 3.11.11 (main, Dec  4 2024, 08:55:07) [GCC 11.4.0]
+# Linux-6.1.85+-x86_64-with-glibc2.35
